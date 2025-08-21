@@ -1,4 +1,4 @@
-# Sistem Bilangan Pada Sistem Digital
+# Sistem Bilangan 
 
 ![banner](.github/Sistem%20Digital.png)
 
@@ -12,6 +12,13 @@ Sebuah Sistem Bilangan adalah cara untuk mempresentasikan angka untuk membuat se
 
 Bilangan Decimal adalah bilangan yang berbasis 10(0-9).Bilangan ini merupakan bilangan simpel yang digunakan dalam setiap kalulasi.
 
+Contoh:
+```
+1.0
+2.0
+3.0
+```
+
 **Biner**
 
 Bilangan Biner adalah bilangan yang berbasis 2.Bilangan Biner umum di pakai dalam komputer klasik.Angka angka yang di masukkan ke dalam biner akan di ubah ke dalam deret angka `1` dan `0`.Angka `1` mempresentasikan skalar _on_ dan angka `0` mempresentasikan skalar _off_.
@@ -24,7 +31,7 @@ Contoh:
 
 **HexaDecimal**
 
-Bilangan Hexadecimal adalah sitem bilangan berbasis 16.Sistem Hexadecimal menggunakan 19 digit:0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F (A = 10,B = 11,dst.).
+Bilangan Hexadecimal adalah sitem bilangan berbasis 16.Sistem Hexadecimal menggunakan 19 digit:0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F (A = 10,B = 11,dst.).Sistem HexaDecimal adalah cara simpel untuk mempresentasikan 4 digit dalam satu digit.
 
 Contoh:
 ```
@@ -34,7 +41,7 @@ Contoh:
 
 **Octal**
 
-
+Bilangan Octal adalah sistem bilangan berbasis 8 menggunakan 8 digit dari:0,1,2,3,4,5,6,dan 7.Bilangan ini sering digunakan untuk mempresentasikan sebuah bilangan biner dari kumpulan 3 bits.
 
 Contoh:
 ```
@@ -51,7 +58,7 @@ Contoh:
 
 ## About
 
-Di buat karna sang pemilik gabut dan sedanga mencari inspirasi hidup
+Di buat karna sang pemilik gabut dan sedang mencari inspirasi hidup
 
 _D.02.01_ & _D.03.02_
 

@@ -1,4 +1,4 @@
-from biner import *
+from SystemNumber.biner import *
 
 
 if __name__ == '__main__':
