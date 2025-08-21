@@ -1,12 +1,16 @@
-# Bilangan Sistem Digital Binary,Hexa,Octav
+# Sistem Bilangan Pada Sistem Digital
 
-Pada sistem Elektronik dan Sistem digital menggunakan angka yang bervariasi seperti Decimal,Binary,Hexadecimal.Angka 
+![banner](.github/Sistem%20Digital.png)
 
-## Decimal - Binary
+Pada sistem Elektronik dan Sistem digital menggunakan angka yang bervariasi seperti Decimal,Binary,Hexadecimal.
 
-## Decimal - HexaDecimal
+**Konversi Bilangan Decimal Ke Sistem Digital**
 
-## Decimal - Octal
+### Decimal - Binary
+
+### Decimal - HexaDecimal
+
+### Decimal - Octal
 
 
 
