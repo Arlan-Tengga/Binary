@@ -20,6 +20,22 @@ def d_hexal(x):
         x = x // 16
     return hexadecimal
 
+def d_octav(x):
+    octal = 0
+    countval = 1
+    dNo = x
+    
+    while(x != 0):
+
+        r = x % 8
+        octal += r * countval
+        countval = countval * 10
+        x //= 8
+
+    return octal
+
+
+
 
 
         
